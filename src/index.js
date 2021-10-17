@@ -15,3 +15,10 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+
+
+
+
+// style={{backgroundColor:'#f91944',border:'1px solid #f91944',padding:'5px 15px',fontWeight:'400',color:'white',borderRadius:'20px'}}

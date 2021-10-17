@@ -1,0 +1,22 @@
+.item-img img{
+    width: 80%;
+    height: 80%;
+}
+.item-container{
+    /* border: 1px solid whitesmoke; */
+    margin: 15px;
+    padding: 40px;
+ 
+}
+.item-container:hover{
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.8);
+    transition: 0.3s;
+    cursor: pointer;
+}
+.item-container img{
+    width: 100%;
+    transition: all.3s ease-in-out;
+}
+.item-container img:hover{
+    transform: scale(1.1);
+}

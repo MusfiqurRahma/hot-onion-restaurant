@@ -1,0 +1,11 @@
+.signIn-btn{
+    background-color: #f91944;
+    border-radius: 20px;
+    color: whiteSmoke;
+    border:  1px solid #f91944;
+    padding: 5px 12px;
+}
+.login{
+    text-decoration: none;
+    margin-right: 15px;
+}

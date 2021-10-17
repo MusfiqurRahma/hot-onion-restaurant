@@ -1,0 +1,18 @@
+.banner{
+       background-image: url(../../../Img/bannerbackground.png);
+       height: 85vh;
+       min-width: 100%;
+       background-position: center;
+}
+#search-bar{
+       border-radius: 20px;
+       width: 30px;
+       margin-top: 100px;
+}
+#search-btn{
+       background-color: #f91944;
+       border-radius: 20px;
+       color: whitesmoke;
+       border: 1px solid #f91944;
+       margin-top: 100px;
+}

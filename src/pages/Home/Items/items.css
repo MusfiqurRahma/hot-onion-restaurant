@@ -1,0 +1,10 @@
+.nav-link a{
+    margin-left: 15px;
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+}
+.items-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
